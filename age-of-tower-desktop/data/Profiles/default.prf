@@ -1,0 +1,37 @@
+{
+_lvlList: [
+	{
+		_name: level1,
+		_score: bronze
+	},
+	{
+		_name: level2,
+		_score: bronze
+	},
+	{
+		_name: level3,
+		_score: bronze
+	},
+	{
+		_name: level4,
+		_score: bronze
+	},
+	{
+		_name: level5,
+		_score: bronze
+	},
+	{
+		_name: level6,
+		_score: bronze
+	},
+	{
+		_name: level7,
+		_score: bronze
+	},
+	{
+		_name: level8,
+		_score: bronze
+	}
+],
+_profileName: default
+}

@@ -1,0 +1,8 @@
+[
+		[padding,10			,2		,0,		10],
+		[life   ,left       ,top   ],
+		[gold   ,left       ,top   ],
+		[clock   ,right      ,top   ],
+		[sound	,right		,bottom],
+		[pause ,left    ,bottom]
+]
